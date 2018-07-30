@@ -1,5 +1,8 @@
 h1 {
-  color: red; 
   font-family: Arial; 
   font-size: 100px;
+}
+header nav {
+  display: flex;
+  justify-content: flex-end;
 }
