@@ -4,6 +4,10 @@ footer .row {
   aligh-items: center;
 }
 
+header {
+  padding: 20px 0;
+}
+
 header h1 {
   font-family: Arial; 
   font-size: 40px
