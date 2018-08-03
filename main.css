@@ -6,7 +6,6 @@ footer .row {
 
 header h1 {
   font-family: Arial; 
-  font-size: 60px;
   font-weight: 700
 }
 
@@ -23,7 +22,7 @@ header p {
 .jumbotron{
   display: flex;
   align-items: center;
-  background-image: url("https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1500660066/travel-hacks-opener-TRAVELHACK0717.jpg?itok=HgP9J2B_");
+  background-image: url('https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1500660066/travel-hacks-opener-TRAVELHACK0717.jpg?itok=HgP9J2B_');
   background-size: cover;
 }
 
