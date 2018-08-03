@@ -6,11 +6,16 @@ footer .row {
 
 header h1 {
   font-family: Arial; 
-  font-size: 200px;
+  font-size: 100px;
   font-weight: 700
 }
 
 header nav {
   display: flex;
   justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
 }
