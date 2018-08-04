@@ -32,18 +32,18 @@ header p {
   display: block;
 }
 
-.jumbotron row {
+.jumbotron container row col-sm-7 {
   border: 15px solid black;
 }
 
 .jumbotron h3 {
-  font-size: 60px;
+  font-size: 70px;
   font-weight: 700;
   margin: 0;
-  padding: 40px 0;
+  padding: 50px 0;
 }
 
 .jumbotron p {
   font-size: 25px; 
-  padding: 20px 0;
+  padding: 30px 0;
 }
