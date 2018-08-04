@@ -31,12 +31,18 @@ header p {
   background-size: cover;
 }
 
+.jumbotron row{
+  border: 15px solid black;
+}
+
 .jumbotron h3 {
   font-size: 60px;
   font-weight: 700;
   margin: 0;
+  padding: 40px 0;
 }
 
 .jumbotron p {
-  font-size: 25px;
+  font-size: 25px; 
+  padding: 20px 0;
 }
