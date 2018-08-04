@@ -1,0 +1,25 @@
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header h1 {
+  font-family: Helvetica; 
+  font-size: 60px
+  font-weight: 700
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0; font-size: 20px
+}
