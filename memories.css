@@ -61,10 +61,19 @@ header p {
   border: 2px solid #aaa;
 }
 
+.jumbotron ul li .title {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.jumbotron ul li .description {
+  font-size: 20px;
+}
+
 .jumbotron ul li > span:before, jumbotron ul li > span:after {
   content: '';
   width: 10px;
-  height: 10px
+  height: 10px;
   border: 2px solid #aaa;
   position: absolute;
   border-radius: 50%;
@@ -83,4 +92,5 @@ header p {
 .jumbotron ul li .time span {
   left: -170px;
   top: 0px;
+  font-size: 30px;
 }
