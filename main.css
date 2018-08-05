@@ -34,12 +34,12 @@ header p {
 }
 
 .jumbotron h3 {
-  font-size: 77px;
+  font-size: 72px;
   font-weight: 700;
   margin-top: 100px 0;
-  padding: 60px 0;
 }
 
 .jumbotron p {
   font-size: 25px; 
+  padding: 15px 0;
 }
