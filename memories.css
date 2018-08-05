@@ -72,17 +72,17 @@ header p {
 
 .jumbotron ul li > span:before, jumbotron ul li > span:after {
   content: '';
-  width: 10px;
-  height: 10px;
-  border: 2px solid #aaa;
+  width: 40px;
+  height: 40px;
+  border: 4px solid #aaa;
   position: absolute;
   border-radius: 50%;
-  left: -7px;
+  left: -6px;
   background: #fff;
 }
 
 .jumbotron ul li > span:before {
-  top: -12px;
+  top: -11px;
 }
 
 .jumbotron ul li > span:after {
@@ -91,6 +91,6 @@ header p {
 
 .jumbotron ul li .time span {
   left: -170px;
-  top: 0px;
-  font-size: 30px;
+  top: -25px;
+  font-size: 25px;
 }
