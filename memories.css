@@ -55,7 +55,7 @@ header p {
   position: absolute;
   content: '';
   top: 0;
-  left: -60;
+  left: -60px;
   width: 0px;
   height: 100%;
   border: 2px solid #aaa;
