@@ -25,6 +25,10 @@ header p {
   margin: 0; font-size: 20px;
 }
 
+.jumbotron {
+  margin: 40px 40px;
+}
+
 .jumbotron ul {
   list-style: none;
   padding: 0;
@@ -44,4 +48,15 @@ header p {
 
 .jumbotron ul li {
   margin: 30px 60px;
+  position: relative
+}
+
+.jumbotron ul li span {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: -60;
+  width: 0px;
+  height: 100%;
+  border: 2px solid #aaa;
 }
