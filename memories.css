@@ -25,14 +25,14 @@ header p {
   margin: 0; font-size: 20px;
 }
 
-.jumbotron container ul {
+.jumbotron ul {
   list-style: none;
   padding: 0;
   margin: 0;
   position: relative;
 }
 
-.jumbotron container ul:before {
+.jumbotron ul:before {
   position: absolute;
   content: '';
   top: 0;
@@ -42,6 +42,6 @@ header p {
   border: 2px dashed #aaa;
 }
 
-.jumbotron container ul li {
+.jumbotron ul li {
   margin: 30px 60px;
 }
