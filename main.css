@@ -33,10 +33,6 @@ header p {
   display: block;
 }
 
-.jumbotron container row col-sm-7 {
-  border: 15px solid black;
-}
-
 .jumbotron h3 {
   font-size: 70px;
   font-weight: 700;
